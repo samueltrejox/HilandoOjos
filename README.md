@@ -1,4 +1,4 @@
-# hilandoOjos
+# HilandoOjos
 
 ## Descripción
 Código para emprendimiento de crochet. El proyecto muestra un sitio web de comercio electrónico diseñado para exhibir y vender productos.
